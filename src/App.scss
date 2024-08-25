@@ -1,0 +1,15 @@
+/* src/App.scss */
+$primary-color: #f4f6fc;
+
+* {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+.app {
+  background-color: $primary-color !important;
+}
+
+.react-icon {
+  cursor: pointer;
+  font-size: "1em";
+}
